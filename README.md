@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @adebayorajide
-- 👀 I’m interested in frontend development, web3 and machine learning 
-- 🌱 I’m currently learning html, CSS, JavaScript 
-- 💞️ I’m looking to collaborate on open source projects like web applications
+- 👀 I’m a frontend developer who is also interested in web3 and machine learning 
+- 🌱 I’m currently learning reactjs
+- 💞️ I’m looking to collaborate on open source projects
 - 📫 How to reach me - you can follow me on twitter:https://twitter.com/AdebayoAjide1?t=GVCdb9J9qHemJSmwgxBWlw&s=09
     Email: adebayorajide@gmail.com
 
